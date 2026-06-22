@@ -9,7 +9,7 @@ from modelos.cliente import Cliente
 
 def main():
     # ===== CREAR EL RESTAURANTE =====
-    mi_restaurante = Restaurante("La Casa del Sabor")
+    mi_restaurante = Restaurante("La Casa del Sabor de tu Amigo Willian")
     
     # ===== CREAR PRODUCTOS =====
     print("\n[*] Registrando productos...")
@@ -25,7 +25,7 @@ def main():
     mi_restaurante.registrar_producto(p3)
     mi_restaurante.registrar_producto(p4)
     mi_restaurante.registrar_producto(p5)
-    print("[OK] Productos registrados exitosamente")
+    print("[OK] Productos registrados exitosamente, gracias")
     
     # ===== CREAR CLIENTES =====
     print("\n[*] Registrando clientes...")
