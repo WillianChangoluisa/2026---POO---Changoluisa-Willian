@@ -20,8 +20,8 @@ def main():
     resto.registrar_producto(p3)
 
     # Crear clientes
-    c1 = Cliente(101, "Ana Pérez", "987654321")
-    c2 = Cliente(102, "Juan López")
+    c1 = Cliente(101, "Ana Perez", "987654321")
+    c2 = Cliente(102, "Juan Lopez")
 
     # Registrar clientes
     resto.registrar_cliente(c1)

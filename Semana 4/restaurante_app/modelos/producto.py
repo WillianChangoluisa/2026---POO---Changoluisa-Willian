@@ -3,7 +3,8 @@
 
 class Producto:
     def __init__(self, id, nombre, precio, tipo):
-        """id: identificador único
+        """
+        id: identificador único
         nombre: nombre del plato o bebida
         precio: precio unitario (float)
         tipo: categoría ('plato', 'bebida', 'postre', ...)
