@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "p1",
+    "nombre": "Hamburguesa",
+    "categoria": "Comida",
+    "precio": 12.5
+  },
+  {
+    "codigo": "p2",
+    "nombre": "Pizza",
+    "categoria": "Comida",
+    "precio": 20.0
+  }
+]
