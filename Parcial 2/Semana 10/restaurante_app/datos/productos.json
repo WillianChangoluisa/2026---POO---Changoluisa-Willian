@@ -1,0 +1,62 @@
+[
+  {
+    "codigo": "P001",
+    "nombre": "Hamburguesa Clásica",
+    "categoria": "Platos principales",
+    "precio": 12.5
+  },
+  {
+    "codigo": "P002",
+    "nombre": "Pizza Margarita",
+    "categoria": "Platos principales",
+    "precio": 14.0
+  },
+  {
+    "codigo": "P003",
+    "nombre": "Ensalada César",
+    "categoria": "Entradas",
+    "precio": 8.5
+  },
+  {
+    "codigo": "P004",
+    "nombre": "Pasta Alfredo",
+    "categoria": "Platos principales",
+    "precio": 15.0
+  },
+  {
+    "codigo": "P005",
+    "nombre": "Pollo al Grill",
+    "categoria": "Platos principales",
+    "precio": 13.75
+  },
+  {
+    "codigo": "P006",
+    "nombre": "Limonada Fresca",
+    "categoria": "Bebidas",
+    "precio": 3.5
+  },
+  {
+    "codigo": "P007",
+    "nombre": "Jugo de Naranja",
+    "categoria": "Bebidas",
+    "precio": 4.0
+  },
+  {
+    "codigo": "P008",
+    "nombre": "Brownie",
+    "categoria": "Postres",
+    "precio": 5.25
+  },
+  {
+    "codigo": "P009",
+    "nombre": "Helado de Vainilla",
+    "categoria": "Postres",
+    "precio": 4.75
+  },
+  {
+    "codigo": "P010",
+    "nombre": "Agua Mineral",
+    "categoria": "Bebidas",
+    "precio": 2.0
+  }
+]
