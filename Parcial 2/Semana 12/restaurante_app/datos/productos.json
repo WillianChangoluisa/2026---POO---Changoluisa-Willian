@@ -1,0 +1,9 @@
+[
+  {
+    "codigo": "P1",
+    "nombre": "Burger",
+    "categoria": "Comida",
+    "precio": 5.5,
+    "stock": 6
+  }
+]
