@@ -1,0 +1,98 @@
+[
+  {
+    "identificacion": "admin",
+    "nombre": "Ana Torres",
+    "correo": "ana@restaurante.com",
+    "cedula": "1712345678",
+    "celular": "0998765432",
+    "password": "1234"
+  },
+  {
+    "identificacion": "cajero",
+    "nombre": "Luis Pérez",
+    "correo": "luis@restaurante.com",
+    "cedula": "1709876543",
+    "celular": "0987654321",
+    "password": "5678"
+  },
+  {
+    "identificacion": "cli01",
+    "nombre": "María López",
+    "correo": "maria.lopez@gmail.com",
+    "cedula": "1711122233",
+    "celular": "0990000001",
+    "password": "pass01"
+  },
+  {
+    "identificacion": "cli02",
+    "nombre": "Carlos Silva",
+    "correo": "carlos.silva@gmail.com",
+    "cedula": "1711223344",
+    "celular": "0990000002",
+    "password": "pass02"
+  },
+  {
+    "identificacion": "cli03",
+    "nombre": "Patricia Ruiz",
+    "correo": "patricia.ruiz@gmail.com",
+    "cedula": "1711334455",
+    "celular": "0990000003",
+    "password": "pass03"
+  },
+  {
+    "identificacion": "cli04",
+    "nombre": "Diego Ortega",
+    "correo": "diego.ortega@gmail.com",
+    "cedula": "1711445566",
+    "celular": "0990000004",
+    "password": "pass04"
+  },
+  {
+    "identificacion": "cli05",
+    "nombre": "Sofía Moreno",
+    "correo": "sofia.moreno@gmail.com",
+    "cedula": "1711556677",
+    "celular": "0990000005",
+    "password": "pass05"
+  },
+  {
+    "identificacion": "cli06",
+    "nombre": "Andrés Castro",
+    "correo": "andres.castro@gmail.com",
+    "cedula": "1711667788",
+    "celular": "0990000006",
+    "password": "pass06"
+  },
+  {
+    "identificacion": "cli07",
+    "nombre": "Valeria Rojas",
+    "correo": "valeria.rojas@gmail.com",
+    "cedula": "1711778899",
+    "celular": "0990000007",
+    "password": "pass07"
+  },
+  {
+    "identificacion": "cli08",
+    "nombre": "Javier Peña",
+    "correo": "javier.pena@gmail.com",
+    "cedula": "1711889900",
+    "celular": "0990000008",
+    "password": "pass08"
+  },
+  {
+    "identificacion": "cli09",
+    "nombre": "Camila Torres",
+    "correo": "camila.torres@gmail.com",
+    "cedula": "1711990011",
+    "celular": "0990000009",
+    "password": "pass09"
+  },
+  {
+    "identificacion": "cli10",
+    "nombre": "Miguel Salazar",
+    "correo": "miguel.salazar@gmail.com",
+    "cedula": "1712001122",
+    "celular": "0990000010",
+    "password": "pass10"
+  }
+]
