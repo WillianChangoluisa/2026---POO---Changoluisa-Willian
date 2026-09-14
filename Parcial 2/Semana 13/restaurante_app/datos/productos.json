@@ -1,0 +1,93 @@
+[
+  {
+    "codigo": "P001",
+    "nombre": "Hamburguesa Clásica",
+    "categoria": "Platos principales",
+    "precio": 6.5,
+    "stock": 12
+  },
+  {
+    "codigo": "P002",
+    "nombre": "Ensalada Mixta",
+    "categoria": "Entradas",
+    "precio": 4.25,
+    "stock": 8
+  },
+  {
+    "codigo": "P003",
+    "nombre": "Jugo Natural",
+    "categoria": "Bebidas",
+    "precio": 2.75,
+    "stock": 15
+  },
+  {
+    "codigo": "P004",
+    "nombre": "Pizza Margarita",
+    "categoria": "Platos principales",
+    "precio": 8.5,
+    "stock": 10
+  },
+  {
+    "codigo": "P005",
+    "nombre": "Ceviche Mixto",
+    "categoria": "Entradas",
+    "precio": 9.25,
+    "stock": 7
+  },
+  {
+    "codigo": "P006",
+    "nombre": "Limonada Natural",
+    "categoria": "Bebidas",
+    "precio": 2.5,
+    "stock": 18
+  },
+  {
+    "codigo": "P007",
+    "nombre": "Pasta Alfredo",
+    "categoria": "Platos principales",
+    "precio": 7.75,
+    "stock": 9
+  },
+  {
+    "codigo": "P008",
+    "nombre": "Arroz con Pollo",
+    "categoria": "Platos principales",
+    "precio": 6.9,
+    "stock": 11
+  },
+  {
+    "codigo": "P009",
+    "nombre": "Tacos de Carne",
+    "categoria": "Fast food",
+    "precio": 5.8,
+    "stock": 13
+  },
+  {
+    "codigo": "P010",
+    "nombre": "Helado de Chocolate",
+    "categoria": "Postres",
+    "precio": 3.5,
+    "stock": 20
+  },
+  {
+    "codigo": "P011",
+    "nombre": "Sandwich Club",
+    "categoria": "Fast food",
+    "precio": 6.25,
+    "stock": 12
+  },
+  {
+    "codigo": "P012",
+    "nombre": "Cafe Americano",
+    "categoria": "Bebidas",
+    "precio": 2.2,
+    "stock": 24
+  },
+  {
+    "codigo": "P013",
+    "nombre": "Brownie",
+    "categoria": "Postres",
+    "precio": 3.8,
+    "stock": 16
+  }
+]
