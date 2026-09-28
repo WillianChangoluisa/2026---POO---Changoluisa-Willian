@@ -1,0 +1,128 @@
+[
+  {
+    "codigo": "P001",
+    "nombre": "Hamburguesa Clásica",
+    "categoria": "Platos fuertes",
+    "precio": 6.5,
+    "stock": 11
+  },
+  {
+    "codigo": "P002",
+    "nombre": "Ensalada César",
+    "categoria": "Entradas",
+    "precio": 5.25,
+    "stock": 7
+  },
+  {
+    "codigo": "P003",
+    "nombre": "Jugo Natural",
+    "categoria": "Bebidas",
+    "precio": 2.75,
+    "stock": 15
+  },
+  {
+    "codigo": "P004",
+    "nombre": "Pizza Margarita",
+    "categoria": "Platos fuertes",
+    "precio": 8.5,
+    "stock": 18
+  },
+  {
+    "codigo": "P005",
+    "nombre": "Lasaña de Carne",
+    "categoria": "Platos fuertes",
+    "precio": 9.75,
+    "stock": 16
+  },
+  {
+    "codigo": "P006",
+    "nombre": "Sopa de Pollo",
+    "categoria": "Entradas",
+    "precio": 4.25,
+    "stock": 23
+  },
+  {
+    "codigo": "P007",
+    "nombre": "Papas Fritas",
+    "categoria": "Acompañamientos",
+    "precio": 3.0,
+    "stock": 28
+  },
+  {
+    "codigo": "P008",
+    "nombre": "Limonada",
+    "categoria": "Bebidas",
+    "precio": 2.5,
+    "stock": 14
+  },
+  {
+    "codigo": "P009",
+    "nombre": "Té Helado",
+    "categoria": "Bebidas",
+    "precio": 2.25,
+    "stock": 19
+  },
+  {
+    "codigo": "P010",
+    "nombre": "Brownie de Chocolate",
+    "categoria": "Postres",
+    "precio": 3.5,
+    "stock": 11
+  },
+  {
+    "codigo": "P011",
+    "nombre": "Cheesecake",
+    "categoria": "Postres",
+    "precio": 4.0,
+    "stock": 9
+  },
+  {
+    "codigo": "P012",
+    "nombre": "Sándwich de Pollo",
+    "categoria": "Platos fuertes",
+    "precio": 5.75,
+    "stock": 14
+  },
+  {
+    "codigo": "P013",
+    "nombre": "Wrap Vegetariano",
+    "categoria": "Platos fuertes",
+    "precio": 6.25,
+    "stock": 12
+  },
+  {
+    "codigo": "P014",
+    "nombre": "Café Americano",
+    "categoria": "Bebidas",
+    "precio": 1.75,
+    "stock": 24
+  },
+  {
+    "codigo": "P015",
+    "nombre": "Capuchino",
+    "categoria": "Bebidas",
+    "precio": 2.75,
+    "stock": 17
+  },
+  {
+    "codigo": "P016",
+    "nombre": "Arroz con Camarón",
+    "categoria": "Platos fuertes",
+    "precio": 10.5,
+    "stock": 8
+  },
+  {
+    "codigo": "P017",
+    "nombre": "Empanadas de Queso",
+    "categoria": "Entradas",
+    "precio": 3.25,
+    "stock": 19
+  },
+  {
+    "codigo": "P018",
+    "nombre": "Mousse de Maracuyá",
+    "categoria": "Postres",
+    "precio": 3.75,
+    "stock": 10
+  }
+]
