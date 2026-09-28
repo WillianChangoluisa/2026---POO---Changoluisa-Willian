@@ -1,0 +1,112 @@
+[
+  {
+    "usuario_id": "admin",
+    "producto_codigo": "P001",
+    "fecha": "27/09/2026 21:41:53"
+  },
+  {
+    "usuario_id": "cajero",
+    "producto_codigo": "P002",
+    "fecha": "27/09/2026 22:00:48"
+  },
+  {
+    "usuario_id": "cliente01",
+    "producto_codigo": "P004",
+    "fecha": "27/09/2026 22:03:00"
+  },
+  {
+    "usuario_id": "cliente02",
+    "producto_codigo": "P004",
+    "fecha": "27/09/2026 22:03:15"
+  },
+  {
+    "usuario_id": "cliente03",
+    "producto_codigo": "P005",
+    "fecha": "27/09/2026 22:03:30"
+  },
+  {
+    "usuario_id": "cliente04",
+    "producto_codigo": "P005",
+    "fecha": "27/09/2026 22:03:45"
+  },
+  {
+    "usuario_id": "cliente05",
+    "producto_codigo": "P006",
+    "fecha": "27/09/2026 22:04:00"
+  },
+  {
+    "usuario_id": "cliente06",
+    "producto_codigo": "P006",
+    "fecha": "27/09/2026 22:04:15"
+  },
+  {
+    "usuario_id": "cliente07",
+    "producto_codigo": "P007",
+    "fecha": "27/09/2026 22:04:30"
+  },
+  {
+    "usuario_id": "cliente08",
+    "producto_codigo": "P007",
+    "fecha": "27/09/2026 22:04:45"
+  },
+  {
+    "usuario_id": "cliente09",
+    "producto_codigo": "P008",
+    "fecha": "27/09/2026 22:05:00"
+  },
+  {
+    "usuario_id": "cliente10",
+    "producto_codigo": "P008",
+    "fecha": "27/09/2026 22:05:15"
+  },
+  {
+    "usuario_id": "cliente11",
+    "producto_codigo": "P009",
+    "fecha": "27/09/2026 22:05:30"
+  },
+  {
+    "usuario_id": "cliente12",
+    "producto_codigo": "P010",
+    "fecha": "27/09/2026 22:05:45"
+  },
+  {
+    "usuario_id": "cliente13",
+    "producto_codigo": "P011",
+    "fecha": "27/09/2026 22:06:00"
+  },
+  {
+    "usuario_id": "cliente14",
+    "producto_codigo": "P012",
+    "fecha": "27/09/2026 22:06:15"
+  },
+  {
+    "usuario_id": "cliente15",
+    "producto_codigo": "P013",
+    "fecha": "27/09/2026 22:06:30"
+  },
+  {
+    "usuario_id": "cliente01",
+    "producto_codigo": "P014",
+    "fecha": "27/09/2026 22:06:45"
+  },
+  {
+    "usuario_id": "cliente02",
+    "producto_codigo": "P015",
+    "fecha": "27/09/2026 22:07:00"
+  },
+  {
+    "usuario_id": "cliente03",
+    "producto_codigo": "P016",
+    "fecha": "27/09/2026 22:07:15"
+  },
+  {
+    "usuario_id": "cliente04",
+    "producto_codigo": "P017",
+    "fecha": "27/09/2026 22:07:30"
+  },
+  {
+    "usuario_id": "cliente05",
+    "producto_codigo": "P018",
+    "fecha": "27/09/2026 22:07:45"
+  }
+]
