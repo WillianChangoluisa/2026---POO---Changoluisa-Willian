@@ -1,0 +1,155 @@
+[
+    {
+        "identificacion":  "admin",
+        "nombre":  "Administrador",
+        "correo":  "admin@restaurante.com",
+        "cedula":  "1712345678",
+        "celular":  "0998765432",
+        "password":  "1234",
+        "rol":  "Administrador"
+    },
+    {
+        "identificacion":  "cajero",
+        "nombre":  "Cajero",
+        "correo":  "cajero@restaurante.com",
+        "cedula":  "1712345679",
+        "celular":  "0998765433",
+        "password":  "5678",
+        "rol":  "Empleado"
+    },
+    {
+        "identificacion":  "cliente01",
+        "nombre":  "Ana López",
+        "correo":  "ana.lopez@example.com",
+        "cedula":  "1720000001",
+        "celular":  "0991000001",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente02",
+        "nombre":  "Carlos Pérez",
+        "correo":  "carlos.perez@example.com",
+        "cedula":  "1720000002",
+        "celular":  "0991000002",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente03",
+        "nombre":  "María Torres",
+        "correo":  "maria.torres@example.com",
+        "cedula":  "1720000003",
+        "celular":  "0991000003",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente04",
+        "nombre":  "José Ramírez",
+        "correo":  "jose.ramirez@example.com",
+        "cedula":  "1720000004",
+        "celular":  "0991000004",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente05",
+        "nombre":  "Sofía Herrera",
+        "correo":  "sofia.herrera@example.com",
+        "cedula":  "1720000005",
+        "celular":  "0991000005",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente06",
+        "nombre":  "Diego Castillo",
+        "correo":  "diego.castillo@example.com",
+        "cedula":  "1720000006",
+        "celular":  "0991000006",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente07",
+        "nombre":  "Valentina Morales",
+        "correo":  "valentina.morales@example.com",
+        "cedula":  "1720000007",
+        "celular":  "0991000007",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente08",
+        "nombre":  "Andrés Vega",
+        "correo":  "andres.vega@example.com",
+        "cedula":  "1720000008",
+        "celular":  "0991000008",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente09",
+        "nombre":  "Camila Flores",
+        "correo":  "camila.flores@example.com",
+        "cedula":  "1720000009",
+        "celular":  "0991000009",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente10",
+        "nombre":  "Mateo Sánchez",
+        "correo":  "mateo.sanchez@example.com",
+        "cedula":  "1720000010",
+        "celular":  "0991000010",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente11",
+        "nombre":  "Isabella Cruz",
+        "correo":  "isabella.cruz@example.com",
+        "cedula":  "1720000011",
+        "celular":  "0991000011",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente12",
+        "nombre":  "Sebastián Ruiz",
+        "correo":  "sebastian.ruiz@example.com",
+        "cedula":  "1720000012",
+        "celular":  "0991000012",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente13",
+        "nombre":  "Lucía Gómez",
+        "correo":  "lucia.gomez@example.com",
+        "cedula":  "1720000013",
+        "celular":  "0991000013",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente14",
+        "nombre":  "Nicolás Ortiz",
+        "correo":  "nicolas.ortiz@example.com",
+        "cedula":  "1720000014",
+        "celular":  "0991000014",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    },
+    {
+        "identificacion":  "cliente15",
+        "nombre":  "Daniela Reyes",
+        "correo":  "daniela.reyes@example.com",
+        "cedula":  "1720000015",
+        "celular":  "0991000015",
+        "password":  "cliente123",
+        "rol":  "Cliente"
+    }
+]
